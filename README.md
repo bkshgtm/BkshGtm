@@ -1,5 +1,5 @@
 # 🧔🏻 About Me:
-I'm Bikash,<br>**Code wizard by day, bug hunter by night. Clean code, cool apps, no drama!**
+I like code that makes sense and apps that don’t suck. Currently building stuff that does both.
 
 ![123](https://github.com/user-attachments/assets/e9a5eebf-c325-476c-a181-a8b2cae0bec6)
 
